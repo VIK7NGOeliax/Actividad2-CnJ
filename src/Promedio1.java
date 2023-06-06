@@ -6,7 +6,7 @@ public class Promedio1 {
         double calificacion1,calificacion2,calificacion3,calificacion4,calificacion5,promedio;
         String alumno;
 
-        System.out.println("Nombre del estudiante: ");
+        System.out.println("Nombre del alumno: ");
         alumno=teclado.nextLine();
         System.out.println("Calificacion 1: ");
         calificacion1=teclado.nextDouble();
